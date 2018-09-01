@@ -1,3 +1,3 @@
 const rssToSpeech = require('./index');
 
-rssToSpeech();
+rssToSpeech('http://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml');

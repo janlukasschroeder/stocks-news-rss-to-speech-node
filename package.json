@@ -1,13 +1,13 @@
 {
-  "name": "node-say",
+  "name": "rss-to-speech",
   "version": "1.0.0",
-  "description": "",
+  "description": "RSS to Speech",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Jan Schroeder",
+  "license": "MIT",
   "dependencies": {
     "async": "^2.6.1",
     "moment": "^2.22.2",

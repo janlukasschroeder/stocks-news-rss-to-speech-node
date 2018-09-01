@@ -2,3 +2,10 @@
 Node.js app fetches RSS feeds, and 
 reads news titles out loud by using
 the text-to-speech library Say.
+
+# Quick Start
+```javascript
+const rssToSpeech = require('./index');
+
+rssToSpeech();
+```
